@@ -1,0 +1,13 @@
+com\vincent\im\dao\LoginRecordDao.class
+com\vincent\im\IMApplication.class
+com\vincent\im\model\MsgRecord.class
+com\vincent\im\service\MsgRecordService.class
+com\vincent\im\dao\MsgRecordDao.class
+com\vincent\im\model\LoginRecord.class
+com\vincent\im\core\VincentCommon.class
+com\vincent\im\core\CheckSumBuilder.class
+com\vincent\im\contorller\TestController.class
+com\vincent\im\service\impl\MsgRecordServiceImpl.class
+com\vincent\im\service\LoginRecordService.class
+com\vincent\im\service\impl\LoginRecordServiceImpl.class
+com\vincent\im\contorller\IMReceiveMsgController.class

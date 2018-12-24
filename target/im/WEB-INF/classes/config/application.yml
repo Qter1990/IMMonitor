@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+IM:
+  AppKey: b8bfd72ceefa106406faa1820b1357d5
+  AppSecret: 2ea02e70f618
+
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/test?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&serverTimezone=CTT
+    username: root
+    password: linwenbin
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath*:com/vincent/im/dao/mapping/*.xml

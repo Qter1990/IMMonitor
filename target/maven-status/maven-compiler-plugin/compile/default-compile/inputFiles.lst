@@ -1,0 +1,13 @@
+D:\project\java_workspace\im\src\main\java\com\vincent\im\contorller\IMReceiveMsgController.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\IMApplication.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\model\LoginRecord.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\dao\MsgRecordDao.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\model\MsgRecord.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\contorller\TestController.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\service\LoginRecordService.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\service\impl\LoginRecordServiceImpl.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\service\impl\MsgRecordServiceImpl.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\core\CheckSumBuilder.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\core\VincentCommon.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\dao\LoginRecordDao.java
+D:\project\java_workspace\im\src\main\java\com\vincent\im\service\MsgRecordService.java
